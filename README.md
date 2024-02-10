@@ -1,6 +1,6 @@
 # Quiz
 
-# Linguagens utilizadas
+# Tecnologias utilizadas
 
 * HTML
 * CSS
